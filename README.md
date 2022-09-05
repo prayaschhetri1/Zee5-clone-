@@ -20,8 +20,8 @@ ZEE5 CLONE {netlify}
 <h1> Author ✍️</h1>
 
 1. Durgesh Soni
-2. Muskan Shaw
-3. Prayash
+2. Prayas Chhetri
+3. Muskan Shaw
 4. Parimal
 5. Vaibhav
 
